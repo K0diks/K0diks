@@ -16,5 +16,5 @@
 ![GameMaker](https://img.shields.io/badge/-GameMaker-83B81A?style=flat&logo=gamemaker&logoColor=white)  
 
 📫 **Как связаться?**  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/ТвойКанал)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/Kodiks)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Твой_ник)  
